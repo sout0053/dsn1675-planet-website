@@ -65,4 +65,8 @@ nav, h1{
 	text-align: left;
 }
 
+nav {
+  padding-top: 1em;
+}
+
 }
